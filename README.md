@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋, my name is Lan Le
 
 <!--
 **baolanlequang/baolanlequang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Buy me a [☕️](https://www.buymeacoffee.com/baolanlequang) at [here](https://www.buymeacoffee.com/baolanlequang)
+### I'm a Vietnamese software engineer, living in Germany
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=baolanlequang)](https://github.com/ryo-ma/github-profile-trophy)
+
+💻 I'm currently working at [ChemotionELN](https://github.com/ComPlat/chemotion_ELN), my main focus 👨🏻‍💻 is [ChemSpectra](https://github.com/ComPlat/chem-spectra-app)
+
+In the free time, I make some open source libraries. You can check them out.
+
+If you like my works, you can buy me a coffee at <a href="https://www.buymeacoffee.com/baolanlequang" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+Thank you for your reading.
