@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 In the free time, I make some open source libraries. You can check them out.
 
-If you like my works, you can buy me a coffee at <a href="https://www.buymeacoffee.com/baolanlequang" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+If you like my works, you can <a href="https://www.buymeacoffee.com/baolanlequang" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 117px !important;" ></a>
 
 Thank you for your reading.
