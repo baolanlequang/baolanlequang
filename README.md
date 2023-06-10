@@ -25,4 +25,10 @@ In the free time, I make some open source libraries. You can check them out.
 
 If you like my works, you can <a href="https://www.buymeacoffee.com/baolanlequang" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 117px !important;" ></a>
 
+### My personal projects
+1. [JcampConverter for iOS](https://github.com/baolanlequang/jcamp-converter-ios): The library to parse [JCAMP-DX](https://iupac.org/what-we-do/digital-standards/JCAMP-DX/) for iOS
+2. VietnameseLunar: The library to convert a day to Vietnamese lunar day
+  - [iOS](https://github.com/baolanlequang/VietnameseLunar-ios)
+  - [Android](https://github.com/baolanlequang/VietnameseLunar-android)
+
 Thank you for your reading.
